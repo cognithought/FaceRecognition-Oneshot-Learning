@@ -21,8 +21,11 @@ This is a **one-shot face recognition** system that can recognize faces **in rea
 Here are some demo images from the project:  
 
 ![Demo Image 1](./ss.png)  
+Training!
+![Demo Image 3](./ss3.png)
+Testing!
 ![Demo Image 2](./ss1.png)  
-![Demo Image 3](./ss3.png)  
+
 
 ---
 
