@@ -31,7 +31,7 @@ Here are some demo images from the project:
 ```bash
 pip install -r requirements.txt
 ```
-### **2️⃣ Run the App
+### 2️⃣ Run the App
 ```bash
 streamlit run app.py
 ```
