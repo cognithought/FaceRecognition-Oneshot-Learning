@@ -14,18 +14,26 @@ This is a **one-shot face recognition** system that can recognize faces **in rea
 ✅ **Supports multiple people** – Can recognize different faces from a small database  
 ✅ **Web Interface with Streamlit** – Simple and easy to use  
 ✅ **Fast & Lightweight** – Runs smoothly without `dlib` dependencies  
-
 ---
 
 ## **📸 Demo Images**  
-Here are some demo images from the project:  
+✨ Below are some snapshots showcasing the project in action!  
 
-![Demo Image 1](./ss.png)  
-Training!
-![Demo Image 3](./ss3.png)
-Testing!
-![Demo Image 2](./ss1.png)  
+<div align="center">
 
+### **🎯 Training Phase**  
+🟢 Capturing and registering a new face into the system.  
+![Training Image](./ss.png)  
+
+### **🧪 Testing Phase**  
+🔍 Recognizing faces in real-time!  
+![Testing Image](./ss3.png)  
+
+### **🚀 Real-Time Face Recognition**  
+🖥️ Identifying faces dynamically with bounding boxes!  
+![Recognition Image](./ss1.png)  
+
+</div>  
 
 ---
 
